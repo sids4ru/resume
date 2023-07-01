@@ -21,7 +21,7 @@
       {
         "name": "facebook",
         "url": "https://www.facebook.com/siddharth.bagai/",
-        "className": "fa fa-facebook"
+        "className": "fa fa-faceboo ̰ ̰k"
       },
       {
         "name": "linkedin",
@@ -91,7 +91,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "TypeScript",
@@ -115,10 +115,6 @@
       },
       {
         "name": "NodeJs",
-        "level": "30%"
-      },
-      {
-        "name": "Yarn",
         "level": "30%"
       },
       {
