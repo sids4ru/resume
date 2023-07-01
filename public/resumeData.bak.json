@@ -4,7 +4,7 @@
     "description": "A technologist who believes everything is possible when approached with a positive outlook",
     "image": "Siddharth.png",
     "bio": "Experienced Software Engineer with 17+ years in React, JavaScript, C++, OpenGl and QT. Delivered high- quality applications across diverse projects, including distributed systems, 3D visualization in Medtech, CAD, and GIS. Proficient in JavaScript, WebGl, ThreeJs optimizing performance, and efficient algorithm development. Passionate about three.js, OpenGL, and advanced graphics. Collaborative, detail-oriented, excels in communication. Dedicated to exceptional results, bringing wealth of skills and experience to software development. Committed to creating outstanding user experiences and making valuable impact.",
-    "contactmessage": "Feel free to connect via mail, mobile, linkedin or whatssup",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "sids4ru@gmail.com",
     "phone": "+91 9717783737",
     "github": "https://github.com/sids4ru",
@@ -15,27 +15,32 @@
       "state": "Uttar Pradesh, India",
       "zip": "201303"
     },
-    "website": "https://s3.us-east-2.amazonaws.com/viz.ext/index.html",
-    "resumedownload": "https://s3.us-east-2.amazonaws.com/viz.ext/Siddharth_concise_1.pdf",
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/siddharth.bagai/",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
         "className": "fa fa-facebook"
       },
       {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/siddharthbagai/",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/bagaisiddharth/",
+        "url": "http://instagram.com/tbaker_x",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/sids4ru",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
         "className": "fa fa-github"
       }
     ]
@@ -136,6 +141,82 @@
       {
         "name": "Jira",
         "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
       }
     ]
   }
