@@ -2,7 +2,7 @@
   "main": {
     "name": "Siddharth Bagai",
     "description": "A technologist who believes everything is possible when approached with a positive outlook",
-    "image": "Siddharth.png",
+    "image": "siddharth.jpg",
     "bio": "Experienced Software Engineer with 17+ years in React, JavaScript, C++, OpenGl and QT. Delivered high- quality applications across diverse projects, including distributed systems, 3D visualization in Medtech, CAD, and GIS. Proficient in JavaScript, WebGl, ThreeJs optimizing performance, and efficient algorithm development. Passionate about three.js, OpenGL, and advanced graphics. Collaborative, detail-oriented, excels in communication. Dedicated to exceptional results, bringing wealth of skills and experience to software development. Committed to creating outstanding user experiences and making valuable impact.",
     "contactmessage": "Feel free to connect via mail, mobile, linkedin or whatssup",
     "email": "sids4ru@gmail.com",
@@ -132,6 +132,34 @@
       {
         "name": "Jira",
         "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "High-Res VR image",
+        "category": "Aframe",
+        "image": "vr.jpg",
+        "url": "https://s3.us-east-2.amazonaws.com/viz.ext/projects/transparentVideo/a-frame-pano.html"
+      },
+      {
+        "title": "VR alpha shader",
+        "category": "Aframe",
+        "image": "alpha.png",
+        "url": "https://s3.us-east-2.amazonaws.com/viz.ext/projects/transparentVideo/aframe-register.html"
+      },
+      {
+        "title": "Flythrough Experience",
+        "category": "Cesium",
+        "image": "pic2go.png",
+        "url": "https://www1.pic2go.com/flythrough"
+      },
+      {
+        "title": "Rolta Flythrough",
+        "category": "C++ opengl",
+        "image": "rft.png",
+        "url": "http://www.rolta.com/wp-content/uploads/pdfs/resources/Rolta%20Software%20for%20Walkthrough-RSW.pdf"
       }
     ]
   }
